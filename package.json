@@ -10,12 +10,12 @@
   "author": "DXXOO",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dxxoo/HisokaBOT-Whatsapp-Bot.git"
+    "url": "https://github.com/MouadElJanati/HisokaBOT-Whatsapp-Bot.git"
   },
   "bugs": {
     "url": "https://github.com/dxxoo/HisokaBOT-Whatsapp-Bot/issues"
   },
-  "homepage": "https://github.com/dxxoo/HisokaBOT-Whatsapp-Bott",
+  "homepage": "https://github.com/MouadElJanati/HisokaBOT-Whatsapp-Bott",
   "license": "MIT",
   "dependencies": {
     "@justalk/pornhub-api": "^3.4.0",
